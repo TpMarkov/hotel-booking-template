@@ -66,7 +66,7 @@ export const hotels: Hotel[] = [
       coordinates: { lat: 43.5828, lng: 11.3171 },
     },
     images: {
-      hero: "https://images.unsplash.com/photo-1529260830199-42c42dda5f30?w=1920&q=80",
+      hero: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1920&q=80",
       gallery: [
         "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80",
         "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&q=80",
