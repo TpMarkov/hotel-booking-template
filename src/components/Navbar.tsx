@@ -126,7 +126,6 @@ export default function Navbar() {
               href={link.href}
               onClick={() => setIsMobileMenuOpen(false)}
               className="text-cream-100 text-2xl font-display tracking-wide hover:text-gold-400 transition-colors duration-300"
-              style={{ opacity: 0, transform: "translateY(20px)" }}
             >
               {link.label}
             </Link>
